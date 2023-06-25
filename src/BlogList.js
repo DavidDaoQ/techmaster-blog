@@ -10,7 +10,7 @@ const BlogList = () => {
         "CSS là ngôn ngữ thiết kế giúp trang web trở nên thanh lịch hơn so với các đoạn văn bản đơn giản...",
       date: "June 1, 2023",
       views: 100,
-      image: "https://media.techmaster.vn/api/static/OH6Sopmw/6VLCbrmM",
+      image: "https://media.techmaster.vn/api/static/OH6Sopmw/7sB8SBOK",
     },
     {
       id: 2,
@@ -19,7 +19,7 @@ const BlogList = () => {
         "Một object là khối xây dựng cơ bản của các chương trình trong JavaScript, được sử dụng trong các class xây dựng...",
       date: "23 tháng 06, 2023",
       views: 34,
-      image: "https://techmaster.vn/resources/image/thumbnail.jpg",
+      image: "https://media.techmaster.vn/api/static/OH6Sopmw/6VLCbrmM",
     },
     {
       id: 3,
